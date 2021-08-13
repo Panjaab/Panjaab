@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panjaab (Five Rivers)
-- 👀 I’m interested in codes realted to Punjab, Punjabi and asian community
+- 👀 I’m interested in codes realted to Punjab, Punjabi
 <!--
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 
